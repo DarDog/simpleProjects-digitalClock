@@ -1,4 +1,4 @@
-#Project Digital clock 
+# Project Digital clock 
 
 ### Technologies used:
 * HTML
