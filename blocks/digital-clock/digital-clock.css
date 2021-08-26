@@ -1,0 +1,15 @@
+.digital-clock {
+  width: fit-content;
+  margin: auto;
+  padding: 10px;
+  border-radius: 2px;
+  color: white;
+  background: rgba(0, 0, 0, .1);
+}
+
+@media screen and (max-width: 768px) {
+  .digital-clock {
+    text-align: center;
+    width: 100%;
+  }
+}

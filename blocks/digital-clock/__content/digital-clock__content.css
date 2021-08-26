@@ -1,0 +1,19 @@
+.digital-clock__content {
+  display: inline-block;
+  margin: 0 10px;
+  font-weight: bold;
+  font-size: 5rem;
+  text-transform: uppercase;
+}
+
+@media screen and (max-width: 768px) {
+  .digital-clock__content {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 480px){
+  .digital-clock__content {
+    font-size: 4rem;
+  }
+}
